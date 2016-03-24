@@ -1,8 +1,12 @@
 # CustomButton.swift
-Custom Designable, Inspectable button with border and corner radius.
+UIButton: Custom designable and inspectable properties for Corner Radius, Border Color, and Border Width from your storyboard.
 
 # CustomImageView.swift
-Adds inspectable designable border and corner radius to UIImageView.
+UIImageView: Custom designable and inspectable properties for Corner Radius, Border Color, and Border Width from your storyboard.
 
 # CustomView.swift
-CustomView Class adds designable and inspectable properties for Corner radius, border color, and border width 
+UIView: Custom designable and inspectable properties for Corner Radius, Border Color, and Border Width from your storyboard.
+
+# CustomTextField.swift
+UITextField: Custom designable and inspectable properties for Corner Radius, Border Color, and Border Width.
+also allows you to easily set the placeholder color, add a (Left) and Right icon (Clear) icon in the UITextField from your storyboard.
